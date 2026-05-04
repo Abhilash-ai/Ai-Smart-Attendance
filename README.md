@@ -42,11 +42,11 @@ Smart Attendence/
 
 ## ▶️ How to Run
 
-1. Register users:
+1. Register users:   python register.py
    
-2. Start recognition:
+2. Start recognition: python recognize.py
    
-3. Open dashboard:
+3. Open dashboard: streamlit run dashboard.py
 
 
 ---
