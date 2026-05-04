@@ -1,4 +1,4 @@
-# 🎯 AI Smart Attendance System
+# 🎯 # 🎯 AI Smart Attendance System (Face Recognition Based)
 
 An AI-based attendance system using **Face Recognition** to automate attendance marking.  
 No manual register, no proxy — just camera + intelligence.
@@ -42,11 +42,11 @@ Smart Attendence/
 
 ## ▶️ How to Run
 
-1. Register users
+1. Register users:
    
-2. Start recognition
+2. Start recognition:
    
-3. Open dashboard  
+3. Open dashboard:
 
 
 ---
@@ -62,5 +62,5 @@ Smart Attendence/
 
 ## 👨‍💻 Author
 
-Abhilash  
+Abhilash M. 
 BCA Student | Aspiring Software Developer
