@@ -1,11 +1,11 @@
-# 🎯 # 🎯 AI Smart Attendance System (Face Recognition Based)
+🎯 AI Smart Attendance System (Face Recognition Based)
 
 An AI-based attendance system using **Face Recognition** to automate attendance marking.  
 No manual register, no proxy — just camera + intelligence.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 👤 Face Registration (capture multiple images)
 - 🧠 Face Recognition using Deep Learning
@@ -16,7 +16,7 @@ No manual register, no proxy — just camera + intelligence.
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - Python
 - OpenCV
@@ -27,7 +27,7 @@ No manual register, no proxy — just camera + intelligence.
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 Smart Attendence/
 │
 ├── register.py # Register new users
@@ -40,7 +40,7 @@ Smart Attendence/
 
 ---
 
-## ▶️ How to Run
+▶️ How to Run
 
 1. Register users:   python register.py
    
@@ -51,7 +51,7 @@ Smart Attendence/
 
 ---
 
-## 📊 Output
+📊 Output
 
 - Detects faces in real time  
 - Marks attendance automatically  
@@ -60,7 +60,7 @@ Smart Attendence/
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 Abhilash M. 
 BCA Student | Aspiring Software Developer
